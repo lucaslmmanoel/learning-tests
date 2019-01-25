@@ -1,0 +1,5 @@
+[flake8]
+ignore = W605
+exclude =
+    venv
+max-complexity = 10
